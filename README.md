@@ -1,0 +1,1 @@
+# HOCS Alfresco maintantenance scripts
